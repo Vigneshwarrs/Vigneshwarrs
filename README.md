@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ1dWZ3bHlkZ3E2M2kzNHpremhqbjdlNXE4Nmx5c2xqbWFtNWE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="125" height="125">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ1dWZ3bHlkZ3E2M2kzNHpremhqbjdlNXE4Nmx5c2xqbWFtNWE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="105" height="105">
 
 I'm a passionate **Full-Stack Developer** specializing in the MERN stack, transforming innovative ideas into elegant, efficient software solutions. With a commitment to continuous learning and growth, I thrive on creating user-centric web applications that make a difference.
 
