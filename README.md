@@ -2,7 +2,7 @@
 
 ## 🌟 About Me  
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ1dWZ3bHlkZ3E2M2kzNHpremhqbjdlNXE4Nmx5c2xqbWFtNWE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="105" height="105">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ1dWZ3bHlkZ3E2M2kzNHpremhqbjdlNXE4Nmx5c2xqbWFtNWE3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="95" height="95">
 
 I'm a **Full-Stack Developer** with expertise in building scalable, high-performance web applications. Passionate about **MERN, Spring Boot, PostgreSQL**, and constantly exploring **cloud technologies**.  
 
