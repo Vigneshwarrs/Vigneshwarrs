@@ -30,8 +30,7 @@ I'm a **Full-Stack Developer** with expertise in building scalable, high-perform
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vigneshwarrs&show_icons=true&theme=dark" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshwarrs&theme=dark" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwarrs&theme=dark&layout=compact" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwarrs&theme=dark&layout=compact" width="48%">
 </div>
 
 ## 🤝 Let's Connect!  
